@@ -1,5 +1,5 @@
 # CodSoft
-# Data_Science
+# DATA SCIENCE
 
 TASK 1 : TITANIC SURVIVAL PREDICTION
 
